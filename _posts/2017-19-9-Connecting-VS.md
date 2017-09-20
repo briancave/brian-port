@@ -2,7 +2,7 @@
 layout: post
 title:  "Trying something completely different"
 date:   2017-09-19 12:49:22
-description: "A new post where I connect to local repo"
+description: "Quisque imperdiet neque a felis hendrerit placerat. Sed pellentesque sollicitudin augue, vitae lobortis magna pulvinar quis. Phasellus vestibulum, mauris eu condimentum imperdiet, lacus ligula viverra elit, tempor luctus justo arcu quis sapien. Aenean vehicula, est et hendrerit volutpat, felis ante molestie lacus, sed rhoncus ligula sapien nec lacus. Aenean suscipit finibus eros vel tincidunt."
 categories: github
 ---
 This is a sample excerpt testing one two three.
