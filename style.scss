@@ -74,7 +74,7 @@ a {
 	cursor: pointer;
   &:hover, &:active {
     color: $blue;
-    text-decoration: underline;
+    border-bottom: 1px solid #707070
   }
 }
 
