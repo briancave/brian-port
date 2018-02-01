@@ -4,19 +4,21 @@ layout: default
 
 <article class="post">
   <h1>{{ page.title }}</h1>
-
-  <div class="summary">
+  <div class="date">
+    Updated on {{ page.date | date: "%B %e, %Y" }}
+  </div>
+  <!-- <div class="summary">
     <h2>Summary</h2>
     {{ page.description }}
-  </div>
+  </div> -->
 
   <div class="entry">
     {{ content }}
   </div>
 
-  <div class="date">
+  <!-- <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>
+  </div>-->
 
   {% include disqus.html %}
 </article>
