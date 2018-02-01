@@ -10,7 +10,7 @@ layout: default
   </div>
   
   <div class="post-categories">
-    {% if post %}
+    Categorized {% if post %}
       {% assign categories = post.categories %}
     {% else %}
       {% assign categories = page.categories %}
@@ -20,7 +20,7 @@ layout: default
     {% unless forloop.last %}&nbsp;{% endunless %}
     {% endfor %}
   </div>
-  
+
   <!--<div class="summary">
     <h2>Summary</h2>
     {{ page.description }}
