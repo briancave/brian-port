@@ -13,11 +13,11 @@ Historicity
 
 Donec metus neque, pharetra ac tempus vel, varius sit amet lectus. Mauris a metus eu ligula venenatis convallis. Nulla facilisi. Duis metus odio, dapibus vitae libero at, tempor blandit mauris. Proin soda
 
-*Specifications* 
+**Specifications** 
 
-* *Crew:* Four
-* *Combat weight:* 26,924 kg      
-* *Power-to-weight ratio:* 7.2 hp/ton
++ **Crew:** Four
++ **Combat weight:** 26,924 kg      
++ **Power-to-weight ratio:** 7.2 hp/ton
 
 
 The Counters
