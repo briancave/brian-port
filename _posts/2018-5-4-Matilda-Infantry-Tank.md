@@ -13,7 +13,7 @@ Design
 
 Donec metus neque, pharetra ac tempus vel, varius sit amet lectus. Mauris a metus eu ligula venenatis convallis. Nulla facilisi. Duis metus odio, dapibus vitae libero at, tempor blandit mauris. Proin soda
 
-**Specifications** 
+### Specifications
 
 + **Crew:** Four
 + **Combat weight:** 26,924 kg      
@@ -33,13 +33,13 @@ Donec metus neque, pharetra ac tempus vel, varius sit amet lectus. Mauris a metu
 The Matilda in ASL
 -------
 
-Counters
-========
+### Counters
+
 Donec metus neque, pharetra ac tempus vel, varius sit amet lectus. Mauris a metus eu ligula venenatis convallis. Nulla facilisi. Duis metus odio, dapibus vitae libero at, tempor blandit mauris. Proin soda
 
 
-Scenarios
-=========
+### Scenarios
+
 
 Donec metus neque, pharetra ac tempus vel, varius sit amet lectus. Mauris a metus eu ligula venenatis convallis. Nulla facilisi. Duis metus odio, dapibus vitae libero at, tempor blandit mauris. Proin soda
 
