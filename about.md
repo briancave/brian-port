@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am focused on building a quality user research practice at [Santander Consumer USA](https://santanderconsumerusa.com). 
+I am building a quality user research practice at [Santander Consumer USA](https://santanderconsumerusa.com). 
 
 ### About the site
 
