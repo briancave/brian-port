@@ -5,20 +5,15 @@ layout: default
 <article class="post">
   <h1>{{ page.title }}</h1>
   
-  <div class="date">
+  <!-- <div class="date">
     Updated on {{ page.date | date: "%B %e, %Y" }}
-  </div>
-  
-  <!--<div class="summary">
-    <h2>Summary</h2>
-    {{ page.description }}
   </div> -->
-
+  
   <div class="entry">
     {{ content }}
   </div>
 
-  <div class="post-categories">
+ <!-- <div class="post-categories">
     Categorized:{% if post %}
       {% assign categories = post.categories %}
     {% else %}
@@ -28,7 +23,7 @@ layout: default
     <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
     {% unless forloop.last %}&nbsp;{% endunless %}
     {% endfor %}
-  </div>
+  </div> -->
 
   <!--<div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}

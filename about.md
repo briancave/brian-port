@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am focused on building a quality user research practice at [Santander Consumer USA](https://santanderconsumerusa.com). 
 
-### More Information
+### About the site
 
-A place to include any other types of information that you'd like to include about yourself.
+Created with [Jekyll](https://jekyllrb.com) and [Jekyll Now](https://github.com/barryclark/jekyll-now) theme. Hosted on [GitHub](https://github.com) and version controlled using [Visual Studio Code](https://code.visualstudio.com/).
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[LinkedIn](https://www.linkedin.com/in/briancave/)
