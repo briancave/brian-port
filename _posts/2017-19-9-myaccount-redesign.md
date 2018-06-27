@@ -23,12 +23,10 @@ Results
 
 I discovered that agents spent on average **6-18 minutes** to resolve an account access issues. Customers were spending on average **17-28 minutes** on the phone factoring in hold times. Using an average salary and total number of active agents, I calculated that our company was spending approximately **$1.6 million annually** to resolve account access issues that should be mostly preventable. 
 
-[img of numbers?]
-
 One of the most significant findings came from digging into technical server log data. I discovered that if a user keyed in an incorrect response to a security question, they would see the same message as if they had entered a correct response. Without accurate system feedback, many users were expecting to receiving a link to get access to their account that would never come. This forced customers to call Santander to find a resolution.
 
 <br>
-<img src="/images/Email_Sent.jpg" alt="email sent message" class="imgcenter">
+<img src="/images/email_sent.jpg" alt="email sent message" class="imgcenter">
 <br>
 
 Conclusion
