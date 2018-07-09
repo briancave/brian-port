@@ -22,7 +22,7 @@ After meeting with multiple departments internally, I devised a strategy for rec
 
 + **Phase 3 - Customer Panel:** Being in a highly regulated industry means that a customer panel introduces the most risk for our organization. With the proper guidance and care we would take our learnings from the first two phases and apply to the customer panel. 
 
-As the sole researcher, I needed to find a way to begin running usability tests as soon as possible. I created a presentation deck recapping what was learned from the usability lab visits, and outlined the recruitment strategy.  I also included a list of equipment needed to capture quality audio and video at a minimal cost and small enough to fit inside a carry-on suitcase. The presentation included a rough timeline and was shared with key stakeholders.
+I needed to find a way to begin running usability tests as soon as possible. I created a presentation deck recapping what was learned from the usability lab visits, and outlined the recruitment strategy.  I also included a list of equipment needed to capture quality audio and video at a minimal cost and small enough to fit inside a carry-on suitcase. The presentation included a rough timeline and was shared with key stakeholders.
 
 Results
 -------
