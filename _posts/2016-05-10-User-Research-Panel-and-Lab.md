@@ -6,7 +6,7 @@ date:   2016-05-10 10:00:22
 
 ***Summary:*** Recruiting participants is one of the most challenging aspects of UX research. 
 
-As the sole user experience researcher, I operate with a limited budget at a limited capacity. The auto finance industry is also highly regulated which compounds the difficulty of doing accurate and efficient research. To resolve this, I have developed a portable usability lab for doing usability testing and interviews and developing a proprietary user research panel to supplement my recruiting needs. 
+As the sole user experience researcher, I operate with a limited budget at a limited capacity. The auto finance industry is also highly regulated which compounds the difficulty of doing accurate and efficient research. To resolve this, I have developed a portable usability lab for doing usability testing and interviews and am developing a proprietary user research panel to supplement my recruiting needs. 
 
 
 Methods
