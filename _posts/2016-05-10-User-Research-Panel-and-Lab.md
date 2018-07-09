@@ -29,6 +29,10 @@ Results
 
 I procured the equipment for the portable usability lab immediately and began doing usability testing on a regular basis. The portable lab allows me to set up the equipment in any available conference room on campus. It also allows me to do off-site interviews at car dealerships or call centers locally or nationwide. 
 
+<br>
+![portable lab equipment](/images/portable_lab.jpg)
+<br>
+
 I am actively working with the IT department to define technical requirements for the user research panel. It will feature a front-end web form for participants to opt in to the panel, and  back-end side for me to run queries to pull a specific number of participants who match specific criteria based on the research needs.
 
 <br>
