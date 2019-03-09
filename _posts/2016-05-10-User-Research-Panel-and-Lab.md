@@ -12,7 +12,7 @@ As the sole user experience researcher, I operate with a limited budget at a lim
 Methods
 -------
 
-I set up onsite visits to [Usability Sciences](http://www.usabilitysciences.com/) and [Sabre](https://www.sabre.com/). I wanted to tour professional usability labs to better understand the physical space, and gather opinions on the most important elements of a usability lab. 
+Our team set up onsite visits to [Usability Sciences](http://www.usabilitysciences.com/) and [Sabre](https://www.sabre.com/). We wanted to tour professional usability labs to better understand the physical space, and gather opinions on the most important elements of a usability lab. 
 
 After meeting with multiple departments internally, I devised a strategy for recruitment which involved creating a proprietary user research panel which would be implemented in three phases:
 
